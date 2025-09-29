@@ -6,4 +6,4 @@
 
 # 29 Sept
 * SQL Function
-* String , Numeric , Date and Time , 
+* String , Numeric , Date and Time , Null Function , Aggregate , Window 
