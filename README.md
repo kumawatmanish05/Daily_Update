@@ -7,3 +7,7 @@
 # 29 Sept
 * SQL Function
 * String , Numeric , Date and Time , Null Function , Aggregate , Window 
+
+# 30 Sept 
+* Introduction Interview Questions
+* 
