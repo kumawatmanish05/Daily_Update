@@ -12,6 +12,9 @@
 * Introduction Interview Questions
 * Speed Maths (Tap Academy)
 
-# 31 Sept
+# 1 Oct
 * Speed Maths 02
 * Averages 
+
+# 2 Oct 
+* ML :- Model Tuning,Ensemble Learning 
