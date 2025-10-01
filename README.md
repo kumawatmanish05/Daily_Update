@@ -13,3 +13,5 @@
 * Speed Maths (Tap Academy)
 
 # 31 Sept
+* Speed Maths 02
+* Averages 
