@@ -18,3 +18,6 @@
 
 # 2 Oct 
 * ML :- Model Tuning,Ensemble Learning , GridSearchCV, RandomSearchCV
+
+# 3 Oct
+* DBMS Assignment 
