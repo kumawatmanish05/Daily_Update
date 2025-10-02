@@ -17,4 +17,4 @@
 * Averages 
 
 # 2 Oct 
-* ML :- Model Tuning,Ensemble Learning 
+* ML :- Model Tuning,Ensemble Learning , GridSearchCV, RandomSearchCV
