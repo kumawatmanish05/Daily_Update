@@ -21,3 +21,8 @@
 
 # 3 Oct
 * DBMS Assignment 
+
+# 4 Oct 
+* ML :-  ensemble learning ,stacking,bagging, boosting  ,code implementation of stacking
+ ,implementation of bagging
+, implementation of boosting
