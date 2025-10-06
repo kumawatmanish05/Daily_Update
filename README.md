@@ -26,3 +26,8 @@
 * ML :-  ensemble learning ,stacking,bagging, boosting  ,code implementation of stacking
  ,implementation of bagging
 , implementation of boosting
+
+# 6 Oct 
+* ML :-  Ensemble Learning: Bagging, Boosting, Stacking explained
+* Random Forest Classifier: Powerful tree-based model
+* AdaBoost, Gradient Boosting, XGBoost: Taking boosting to the next level
