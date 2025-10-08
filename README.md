@@ -34,4 +34,6 @@
 * SST :- Clock & Calendar , work n Time
 
   # 7 OCT
-  * Attended the Soft Skills Classes 
+  * Attended the Soft Skills Classes
+  * Aptitude Prep :-Cognizant 2025(Questions)
+  * 
