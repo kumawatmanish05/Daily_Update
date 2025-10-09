@@ -33,7 +33,12 @@
 * AdaBoost, Gradient Boosting, XGBoost: Taking boosting to the next level
 * SST :- Clock & Calendar , work n Time
 
-  # 7 OCT
-  * Attended the Soft Skills Classes
-  * Aptitude Prep :-Cognizant 2025(Questions)
-  * 10 HackerRank SQL
+ # 7 OCT
+ * Attended the Soft Skills Classes
+ * Aptitude Prep :-Cognizant 2025(Questions)
+ * 10 HackerRank SQL
+ 
+ #  9 Oct
+ * Attended the Soft Skills Classes
+ * Attended Communication Assesment
+ * 
