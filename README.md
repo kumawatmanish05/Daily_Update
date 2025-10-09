@@ -36,4 +36,4 @@
   # 7 OCT
   * Attended the Soft Skills Classes
   * Aptitude Prep :-Cognizant 2025(Questions)
-  * 
+  * 10 HackerRank SQL
