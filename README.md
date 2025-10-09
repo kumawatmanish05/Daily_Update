@@ -41,4 +41,4 @@
  #  9 Oct
  * Attended the Soft Skills Classes
  * Attended Communication Assesment
- * 
+ * 10 HackerRank SQL
