@@ -42,3 +42,6 @@
  * Attended the Soft Skills Classes
  * Attended Communication Assesment
  * 10 HackerRank SQL
+
+ # 10 Oct 
+ * Attended Mock Interview
