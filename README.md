@@ -46,3 +46,4 @@
  # 10 Oct 
  * Attended Mock Interview
  * Aptitude Prep :-Cognizant 2025(Questions)
+ * Attended the Soft Skills Classes
