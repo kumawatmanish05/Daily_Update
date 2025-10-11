@@ -50,3 +50,5 @@
 
 # 11 Oct
 * Attended the Soft Skills Classes
+* Attended the Aptitude Round(Cognizant)
+* 
