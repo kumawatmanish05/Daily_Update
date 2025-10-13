@@ -56,3 +56,6 @@
 *  Clustering Algorithms:
  – K-Means Clustering + Elbow Method
  – DBSCAN: Clustering any shape + outliers
+*  Dimensionality Reduction:
+ – PCA (Principal Component Analysis)
+ – Curse of Dimensionality — why it matters
