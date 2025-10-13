@@ -51,4 +51,8 @@
 # 11 Oct
 * Attended the Soft Skills Classes
 * Attended the Aptitude Round(Cognizant)
-* 
+
+# 13 Oct 
+*  Clustering Algorithms:
+ – K-Means Clustering + Elbow Method
+ – DBSCAN: Clustering any shape + outliers
