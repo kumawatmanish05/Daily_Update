@@ -59,3 +59,7 @@
 *  Dimensionality Reduction:
  – PCA (Principal Component Analysis)
  – Curse of Dimensionality — why it matters
+*  Hands-on Projects:
+ – K-Means Clustering on real data
+ – DBSCAN project — complex clusters
+ – PCA visualizations
