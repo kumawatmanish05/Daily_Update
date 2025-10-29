@@ -63,3 +63,9 @@
  – K-Means Clustering on real data
  – DBSCAN project — complex clusters
  – PCA visualizations
+
+# 30 Oct 
+* Optimizers
+* ANN Project
+* Try to look for DSA Course
+* Updating the Resume 
