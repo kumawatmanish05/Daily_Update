@@ -68,4 +68,8 @@
 * Optimizers
 * ANN Project
 * Try to look for DSA Course
-* Updating the Resume 
+* Updating the Resume
+
+# 30 Nov 
+* Bahdanau Attention
+* 
