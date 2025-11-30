@@ -72,4 +72,6 @@
 
 # 30 Nov 
 * Bahdanau Attention
+* Luong Attention
+* VGAG Record Completion
 * 
