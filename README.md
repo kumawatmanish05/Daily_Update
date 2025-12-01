@@ -78,3 +78,5 @@
 
 # 01 Dec
 * SonarRock ML Project Completed
+* Watched episode 2,3,4 Of Strangers Things
+* 
