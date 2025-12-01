@@ -75,4 +75,6 @@
 * Luong Attention
 * VGAG Record Completion
 * PMGC Green Group Day - 03
-* 
+
+# 01 Dec
+* SonarRock ML Project Completed
