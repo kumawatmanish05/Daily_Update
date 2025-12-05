@@ -81,4 +81,5 @@
 * Watched episode 2,3,4 Of Strangers Things
 
 # 05 Dec  
-* Scaled Dot product Attention 
+* Scaled Dot product Attention
+* Self Attention Geometric Representation 
