@@ -79,4 +79,6 @@
 # 01 Dec
 * SonarRock ML Project Completed
 * Watched episode 2,3,4 Of Strangers Things
-* 
+
+# 05 Dec  
+* Scaled Dot product Attention 
