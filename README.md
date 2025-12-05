@@ -83,4 +83,5 @@
 # 05 Dec  
 * Scaled Dot product Attention
 * Self Attention Geometric Representation
-* ANN Revision 
+* ANN Revision
+* Self Attention Vs Luong Attention 
