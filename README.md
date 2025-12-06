@@ -88,4 +88,5 @@
 
 # 06 Dec
 * Multi Head Attention
-* ANN REvision 
+* ANN REvision
+* VGCA Model Question Paper
