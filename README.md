@@ -88,4 +88,4 @@
 
 # 06 Dec
 * Multi Head Attention
-* 
+* ANN REvision 
