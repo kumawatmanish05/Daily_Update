@@ -93,4 +93,5 @@
 * RACA Model Question Paper
 
 # 07 Dec 
-* Positional Encoding 
+* Positional Encoding
+* LinkedIn Post about Self Attention 
