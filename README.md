@@ -94,4 +94,6 @@
 
 # 07 Dec 
 * Positional Encoding
-* LinkedIn Post about Self Attention 
+* LinkedIn Post about Self Attention
+* VACG Model Question Unit 1 10 Question
+* 
