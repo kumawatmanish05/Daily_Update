@@ -100,4 +100,7 @@
 # 08 Dec
 * Layer Normalization 
 * VACG MODEL 13 Question Unit 2
-* Bgmi 
+* Bgmi
+
+# 09 Dec 
+* 
