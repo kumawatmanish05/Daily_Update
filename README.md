@@ -96,4 +96,6 @@
 * Positional Encoding
 * LinkedIn Post about Self Attention
 * VACG Model Question Unit 1 10 Question
-* 
+
+# 08 Dec
+* Layer Normalization 
