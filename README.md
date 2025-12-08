@@ -99,3 +99,5 @@
 
 # 08 Dec
 * Layer Normalization 
+* VACG MODEL 13 Question Unit 2
+* 
