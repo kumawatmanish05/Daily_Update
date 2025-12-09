@@ -103,4 +103,5 @@
 * Bgmi
 
 # 09 Dec 
-* Encoder Architecture 
+* Encoder Architecture
+* Masked Self Attention 
