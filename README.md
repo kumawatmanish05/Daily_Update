@@ -103,4 +103,4 @@
 * Bgmi
 
 # 09 Dec 
-* 
+* Encoder Architecture 
