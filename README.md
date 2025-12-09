@@ -104,4 +104,6 @@
 
 # 09 Dec 
 * Encoder Architecture
-* Masked Self Attention 
+* Masked Self Attention
+
+# 10 Dec
