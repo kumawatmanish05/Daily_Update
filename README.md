@@ -108,4 +108,5 @@
 
 # 10 Dec
 * Cross attention
-* Decoder Architecture 
+* Decoder Architecture
+* AI 2025 1 Question 
