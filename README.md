@@ -113,3 +113,4 @@
 
 # 11 Dec  
 * Transformers architecture completed
+* AI 2025 Question paper 7 question completed
