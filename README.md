@@ -112,3 +112,4 @@
 * AI 2025 1 Question
 
 # 11 Dec  
+* Transformers architecture completed
