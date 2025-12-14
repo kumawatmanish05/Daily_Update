@@ -117,4 +117,5 @@
 
 # 14 Dec 
 * AI 2025 6-7 Questions
-* Started pytorch 
+* Started pytorch
+* Watched Pmgc final Day 3 
