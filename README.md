@@ -118,4 +118,5 @@
 # 14 Dec 
 * AI 2025 6-7 Questions
 * Started pytorch
-* Watched Pmgc final Day 3 
+* Watched Pmgc final Day 3
+* Deleted BGMI
