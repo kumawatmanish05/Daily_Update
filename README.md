@@ -120,3 +120,6 @@
 * Started pytorch
 * Watched Pmgc final Day 3
 * Deleted BGMI
+
+# 16 Dec 
+
