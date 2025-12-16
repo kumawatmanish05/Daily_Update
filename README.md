@@ -123,4 +123,5 @@
 
 # 16 Dec 
 * Employeebility PYQS
+* Autograd in Pytorch
 
