@@ -126,5 +126,5 @@
 * Autograd in Pytorch
 
 # 20 Dec
-
+* DBMS Prep 
 
