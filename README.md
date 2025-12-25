@@ -126,5 +126,9 @@
 * Autograd in Pytorch
 
 # 20 Dec
-* DBMS Prep 
+* DBMS Prep
+
+# 26 Dec 
+* DBMS Exam Completed
+* 
 
