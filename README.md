@@ -132,5 +132,6 @@
 * DBMS Exam Completed
 
 # 28 Dec
-* RACA Unit 1 completed 
+* RACA Unit 1 completed
+* Unit 2 half done 
 
