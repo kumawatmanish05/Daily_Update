@@ -133,5 +133,6 @@
 
 # 28 Dec
 * RACA Unit 1 completed
-* Unit 2 half done 
+* Unit 2 half done
+* Stranger things S5 Ep 05 - 6.20
 
