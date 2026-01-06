@@ -3,7 +3,8 @@
 * Jan 02 = 0
 * Jan 03 = 3 hr
 * Jan 04 = 4 hr
-* Jan 05 = 2.5 hr 
+* Jan 05 = 2.5 hr
+* Jan 06 = 4.5 hr 
 
 
 
@@ -15,3 +16,9 @@
 # Jan 05
 * Prepared about Ai Exam
 * Implemented Transfer learning on Mnsit Dataset using Pytorch
+
+# Jan 06  
+* Implemented RNN Using RNN 
+* Made an Question_Answering Bot 
+* Studied for AI Exam
+
