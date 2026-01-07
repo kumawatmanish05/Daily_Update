@@ -24,4 +24,5 @@
 * Studied for AI Exam
 
 # Jan 07
+* studied Only for AI Exam 
 
