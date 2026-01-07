@@ -4,7 +4,8 @@
 * Jan 03 = 3 hr
 * Jan 04 = 4 hr
 * Jan 05 = 2.5 hr
-* Jan 06 = 4.5 hr 
+* Jan 06 = 4.5 hr
+* Jan 07 = 6 hr  
 
 
 
