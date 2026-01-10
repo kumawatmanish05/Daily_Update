@@ -27,5 +27,10 @@
 * Studied for AI Exam
 
 # Jan 07
-* studied Only for AI Exam 
+* studied Only for AI Exam
+
+# Jan 10
+* Studied For VCGA Maths Exam
+* Current was gone for over 9 hr
+* So it fucked up my day 
 
