@@ -33,5 +33,7 @@
 # Jan 10
 * Studied For VCGA Maths Exam
 * Current was gone for over 9 hr
-* So it fucked up my day 
+* So it fucked up my day
+
+# Jan 11
 
