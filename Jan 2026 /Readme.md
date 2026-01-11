@@ -36,4 +36,5 @@
 * So it fucked up my day
 
 # Jan 11
+* Studied For VCGA Maths Exam
 
