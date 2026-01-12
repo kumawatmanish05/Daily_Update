@@ -9,7 +9,8 @@
 * Jan 08 = 0.5 hr
 * Jan 09 = 1.5 hr
 * Jan 10 = 4.5 hr
-* Jan 11 = 6 hr 
+* Jan 11 = 6 hr
+* Jan 12 = 5 hr 
 
 
 
