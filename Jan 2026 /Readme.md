@@ -39,3 +39,6 @@
 # Jan 11
 * Studied For VCGA Maths Exam
 
+# Jan 15 
+* Went to Rameshwaram
+
