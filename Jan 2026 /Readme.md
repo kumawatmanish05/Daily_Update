@@ -46,5 +46,6 @@
 * Came Back + Resting Day
 
 # Jan 19 
+* Prepared for AI Practical exam 
 
 
