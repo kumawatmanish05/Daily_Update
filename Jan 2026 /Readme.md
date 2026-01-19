@@ -45,4 +45,6 @@
 # Jan 17 
 * Came Back + Resting Day
 
+# Jan 19 
+
 
