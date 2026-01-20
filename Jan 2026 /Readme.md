@@ -49,5 +49,6 @@
 * Prepared for AI Practical exam
 
 # Jan 20
+* Done with AI Practical 
 
 
