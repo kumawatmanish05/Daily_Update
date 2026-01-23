@@ -50,6 +50,9 @@
 
 # Jan 20
 * Done with AI Practical
-* Wasted 
+* Wasted
+
+# Jan 23
+* Started FastAPI from Github and Campusx
 
 
