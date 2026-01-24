@@ -56,5 +56,6 @@
 * Started FastAPI from Github and Campusx
 
 # Jan 24
+* Gave VCAG Practical 
 
 
