@@ -56,6 +56,9 @@
 * Started FastAPI from Github and Campusx
 
 # Jan 24
-* Gave VCAG Practical 
+* Gave VCAG Practical
+
+# Jan 25 
+* Learned about Path parameters 
 
 
