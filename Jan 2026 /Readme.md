@@ -59,6 +59,7 @@
 * Gave VCAG Practical
 
 # Jan 25 
-* Learned about Path parameters in FastAPI 
+* Learned about Path parameters in FastAPI
+* Query Parameters 
 
 
