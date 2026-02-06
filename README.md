@@ -5,3 +5,6 @@
 
 # Feb 03 - Feb 05
 * Travelling 
+
+# Feb 06
+* * Improving the FastAPI API | Video 8 | CampusX
