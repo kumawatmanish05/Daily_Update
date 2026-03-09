@@ -4,3 +4,4 @@
 * MLOps: Day 1 - Introduction to MLOps
 
 # Feb 09
+* MLOps: Day 2 - Complete Git & Github ✅
