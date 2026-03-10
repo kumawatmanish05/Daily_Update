@@ -5,3 +5,7 @@
 
 # Feb 09
 * MLOps: Day 2 - Complete Git & Github ✅
+
+# Feb 10
+* Completed Git & Github 
+* MLOps: Day 3 - OOPS Python 🚀
