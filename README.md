@@ -12,3 +12,6 @@
 
 # Feb 12
 * Done Nothing 
+
+# Feb 14
+* MLOps: Day 4 - Data Versioning using DVC ✅
