@@ -15,3 +15,6 @@
 
 # Feb 14
 * MLOps: Day 4 - Data Versioning using DVC ✅
+
+# Feb 15 
+* MLOps: Day 5 - End to End ML Pipeline using DVC & AWS S3 🚀 
