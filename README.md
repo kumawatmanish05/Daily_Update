@@ -27,3 +27,4 @@
 
 # March 24
 * SQL CASE WHEN Statement (Visually Explained) | #SQL Course 20
+* SQL Window Functions Basics 
