@@ -24,3 +24,6 @@
 
 # March 20
 * Done Nothing
+
+# March 24
+* SQL CASE WHEN Statement (Visually Explained) | #SQL Course 20
