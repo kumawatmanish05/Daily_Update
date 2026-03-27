@@ -35,4 +35,5 @@
 * SQL Aggregate Window Functions | COUNT, AVG, SUM, MAX, MIN | #SQL Course 23
 
 # March 27
+* ROW_NUMBER, RANK, DENSE_RANK, NTILE | #SQL Course 24
 
