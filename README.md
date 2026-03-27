@@ -34,3 +34,5 @@
 * PARTITION BY, ORDER BY, FRAME | #SQL Course 22
 * SQL Aggregate Window Functions | COUNT, AVG, SUM, MAX, MIN | #SQL Course 23
 
+# March 27
+
