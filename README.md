@@ -38,4 +38,5 @@
 * ROW_NUMBER, RANK, DENSE_RANK, NTILE | #SQL Course 24
 
 # March 29
-* Watched BGIS Final 
+* Watched BGIS Final
+* SoUL #1 Genesis #2 Og #3
