@@ -38,3 +38,4 @@
 * ROW_NUMBER, RANK, DENSE_RANK, NTILE | #SQL Course 24
 
 # March 29
+* Watched BGIS Final 
