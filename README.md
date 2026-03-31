@@ -40,3 +40,6 @@
 # March 29
 * Watched BGIS Final
 * SoUL #1 Genesis #2 Og #3
+
+# March 31
+
