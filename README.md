@@ -1,7 +1,4 @@
 # June 2026
 
-## May 15
-* Back to track
-
-
-## May 22
+# June 12
+* Preparing for maths Exam 
