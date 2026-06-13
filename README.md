@@ -6,3 +6,4 @@
 
 # June 13
 * Will Study about python Exam {Maybe Unit 1}
+* Maths Starting from 61
