@@ -11,4 +11,5 @@
 # June 14 
 * Starting from 66
 
-# June 18 
+# June 18
+* Starts from 71 
