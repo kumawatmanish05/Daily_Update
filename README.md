@@ -18,4 +18,4 @@
 * Starts From 76
 
 # July 12
-
+* prepared for python lab exam 
